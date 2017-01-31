@@ -1,3 +1,1 @@
-# hello-world
-
-#Im trash at coding
+# Hello-World
